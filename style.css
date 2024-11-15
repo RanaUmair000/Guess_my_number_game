@@ -21,6 +21,6 @@ header{
     color: black;
     padding: 16px 32px;
     font-size: 25px;
-    cursor: pointer;
+    cursor: loading;
     border: none;
 }
