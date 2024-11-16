@@ -40,3 +40,16 @@ input{
     border-bottom: 6px solid white;
 }
 
+.q-mark{
+    font-size: 72px;
+    color: black;
+    background-color: white;
+    display: inline-block;
+    padding: 16px 28px;
+    padding-left: 36px;
+    margin-top: 66px;
+    margin-top: -55px;
+    position: absolute;
+    left: 45%;
+}
+
