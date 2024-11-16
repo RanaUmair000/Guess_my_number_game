@@ -24,3 +24,8 @@ header{
     cursor: pointer;
     border: none;
 }
+
+input{
+    margin-right: 8px;
+
+}
