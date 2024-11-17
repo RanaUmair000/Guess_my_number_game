@@ -53,3 +53,13 @@ input{
     left: 45%;
 }
 
+.input{
+    display: inline-block;
+    width: 160px;
+    padding: 12px 10px;
+    background: none;
+    border: 6px solid white;
+    color: white;
+    font-size: 56px;
+    text-align: center;
+}
