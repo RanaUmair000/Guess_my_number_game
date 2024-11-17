@@ -63,3 +63,13 @@ input{
     font-size: 56px;
     text-align: center;
 }
+
+.checker{
+    width: 120px;
+    padding: 16px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+}
+
