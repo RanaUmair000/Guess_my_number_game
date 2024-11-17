@@ -73,3 +73,10 @@ input{
     border: none;
 }
 
+.box{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    align-items: center;
+    /* margin-right: 600px; */
+}
