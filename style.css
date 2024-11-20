@@ -76,7 +76,7 @@ input{
 .box{
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 10px;
     align-items: center;
     /* margin-right: 600px; */
 }
