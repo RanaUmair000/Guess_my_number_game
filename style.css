@@ -7,9 +7,6 @@ body{
     font-family: 'Press Start 2P', cursive;
 }
 
-.container{
-}
-
 header{
     display: flex;
     align-items: center;
